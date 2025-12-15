@@ -1,5 +1,4 @@
-# Analysis of Delays in Flights
-
+# Flight Delay Analysis
 ## Project Overview
 The **aviation industry** significantly influences the social and economic advancement of a nation. However, **airline delays** cause significant losses for the industry, impacting airports, airlines, and passengers.
 
@@ -19,8 +18,7 @@ The dataset contains information on **539,383 rows** and **9 columns**, detailin
 | 4 | AA | 2466 | SFO | DFW | 3 | 195 | 1 |
 | 5 | AS | 108 | ANC | SEA | 3 | 202 | 0 |
 
-
-## Significance of Study
+#### Reason for Study
 Worldwide airline delays are a major issue causing enormous losses. Cutting down on flight delays can lessen aviation's **carbon footprint** and benefit the environment. This study aims to analyze factors contributing to flight delays to help create appropriate plans for **smooth operational functioning**.
 
 ## Exploratory Data Analysis & Results
@@ -36,8 +34,11 @@ We analyzed the distribution of features using **univariate and multivariate plo
 
 *As shown above, **WN Airlines** operated the most delayed flights, and delays were most frequent during **midweek** operations.*
 
- Links can be found here :
+ ## Links  :
+
+  [Application Link](https://mariapault0512.shinyapps.io/ShinyApplication/)
 
   [Report](https://github.com/intagliated/Analysis-of-Delays-in-Flights-/blob/main/Project_1.pdf)<br><br>
   
-  [Code](https://github.com/intagliated/Analysis-of-Delays-in-Flights-/blob/main/app.R)
+  [Code Files](https://github.com/intagliated/Analysis-of-Delays-in-Flights-/blob/main/app.R)<br><br>
+  [Youtube](https://youtu.be/TYsCP59EyV0)
